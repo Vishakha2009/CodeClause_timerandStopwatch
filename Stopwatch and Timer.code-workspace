@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "Stopwatch and Timer"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
